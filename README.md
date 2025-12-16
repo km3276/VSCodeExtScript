@@ -28,7 +28,7 @@ pip install beautifulsoup4
 Run the script and follow the prompts:
 
 ```bash
-python3 vscode_extension_lookup_mac.py
+python3 VSCodeExtScript.py
 ```
 
 ### Example
